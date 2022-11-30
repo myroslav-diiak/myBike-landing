@@ -1,3 +1,3 @@
-  - [DEMO LINK](https://myroslav-diiak.github.io/<repo_name>/](https://myroslav-diiak.github.io/myBike-landing/))
+  - [DEMO LINK](https://myroslav-diiak.github.io/myBike-landing/)
   - [DESIGN](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?t=aHxeG3jbKrtJSiPy-0)
   - Stack: HTML, SASS, BEM, JS
